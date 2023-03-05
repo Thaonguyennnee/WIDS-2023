@@ -1,1 +1,3 @@
-# WIDS-2023
+In advance of the Women in Data Science (WiDS) Stanford Conference to be held on March 8, 2023, we invite you to build a team, hone your data science skills, and join us for the 6th Annual WiDS Datathon focused on social impact. In this year’s datathon challenges participants will use data science to improve longer-range weather forecasts to help people prepare and adapt to extreme weather events caused by climate change.
+
+The WiDS Datathon encourages women worldwide to hone their data science skills, creating a supportive environment for women to connect with others in their community who share their interests. Data scientists of all levels are invited to participate in the datathon, including beginners.
